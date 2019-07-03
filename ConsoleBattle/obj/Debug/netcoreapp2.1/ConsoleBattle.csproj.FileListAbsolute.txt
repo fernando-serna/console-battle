@@ -1,0 +1,11 @@
+/Users/fernando/Desktop/C# Projects/ConsoleBattle/ConsoleBattle/bin/Debug/netcoreapp2.1/ConsoleBattle.deps.json
+/Users/fernando/Desktop/C# Projects/ConsoleBattle/ConsoleBattle/bin/Debug/netcoreapp2.1/ConsoleBattle.runtimeconfig.json
+/Users/fernando/Desktop/C# Projects/ConsoleBattle/ConsoleBattle/bin/Debug/netcoreapp2.1/ConsoleBattle.runtimeconfig.dev.json
+/Users/fernando/Desktop/C# Projects/ConsoleBattle/ConsoleBattle/bin/Debug/netcoreapp2.1/ConsoleBattle.dll
+/Users/fernando/Desktop/C# Projects/ConsoleBattle/ConsoleBattle/bin/Debug/netcoreapp2.1/ConsoleBattle.pdb
+/Users/fernando/Desktop/C# Projects/ConsoleBattle/ConsoleBattle/obj/Debug/netcoreapp2.1/ConsoleBattle.csprojAssemblyReference.cache
+/Users/fernando/Desktop/C# Projects/ConsoleBattle/ConsoleBattle/obj/Debug/netcoreapp2.1/ConsoleBattle.csproj.CoreCompileInputs.cache
+/Users/fernando/Desktop/C# Projects/ConsoleBattle/ConsoleBattle/obj/Debug/netcoreapp2.1/ConsoleBattle.AssemblyInfoInputs.cache
+/Users/fernando/Desktop/C# Projects/ConsoleBattle/ConsoleBattle/obj/Debug/netcoreapp2.1/ConsoleBattle.AssemblyInfo.cs
+/Users/fernando/Desktop/C# Projects/ConsoleBattle/ConsoleBattle/obj/Debug/netcoreapp2.1/ConsoleBattle.dll
+/Users/fernando/Desktop/C# Projects/ConsoleBattle/ConsoleBattle/obj/Debug/netcoreapp2.1/ConsoleBattle.pdb

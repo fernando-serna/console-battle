@@ -6,10 +6,16 @@ namespace ConsoleBattle
     {
         static void Main(string[] args)
         {
-            Warrior maximus = new Warrior("Maximus", 1000, 120, 40);
-            Warrior bob = new Warrior("Bob", 1000, 120, 40);
+            Console.WriteLine("Enter the name of player1: ");
+            string player1 = Console.ReadLine();
 
-            Battle.StartFight(maximus, bob);
+            Console.WriteLine("Enter the name of player2: ");
+            string player2 = Console.ReadLine();
+
+            Warrior warrior1 = new Warrior(player1, 1000, 120, 40);
+            Warrior warrior2 = new Warrior(player2, 1000, 120, 40);
+
+            Battle.StartFight(warrior1, warrior2);
 
             Console.ReadLine();
         }
